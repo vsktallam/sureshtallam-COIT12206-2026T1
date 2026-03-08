@@ -77,3 +77,17 @@ ping 10.10.1.2
 ```
 backtick test
 ```
+
+# 7. Just installed Visual Studio Code
+
+## now writing markup language
+
+1. edit the file
+2. save the file
+3. commit the file
+
+**testing the changes from visual studio code**
+
+```
+code block change
+```
