@@ -63,3 +63,17 @@ Use the `ping` command to test connectivity.
 # 6. Code Blocks (Important for Networking)
 
 Use triple backticks for command blocks.
+
+```bash
+ip address show
+ping 10.10.1.2
+```
+
+```
+ip address show
+ping 10.10.1.2
+```
+
+```
+backtick test
+```
