@@ -1,0 +1,35 @@
+# COIT12206 TCP/IP Protocols
+## Week 01 Portfolio
+
+Name: Suresh Tallam  
+Student ID: XXXXX  
+Date: 2026
+
+---
+
+## Task 1 – GNS3 Introduction
+
+### Topology
+
+PC1 -------- PC2
+
+### IP Address Configuration
+
+PC1:
+10.10.1.1/24
+
+PC2:
+10.10.1.2/24
+
+### Commands Used
+
+ip 10.10.1.1/24  
+ip 10.10.1.2/24  
+ping 10.10.1.2
+
+### What I Learned
+
+- How to create a GNS3 project
+- How to connect devices in a network
+- How to configure IP addresses
+- How to test connectivity using ping
